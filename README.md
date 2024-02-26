@@ -1,2 +1,1 @@
-# munhumutapa-wallet
-Mobile wallet for Munhumutapa Alphablockchain
+Munhumutapa Africa Blockchain
